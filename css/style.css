@@ -1,0 +1,27 @@
+#cantidades input {
+    display: flex;
+    margin : 1.33em;
+}
+
+#main {
+    display: flex;
+    justify-content: space-around;
+}
+
+#boton-calcular {
+    text-align: center;
+}
+
+#boton-calcular #boton {
+    background-color: green;
+    border-radius: 5px;
+    padding: 10px 30px;
+    color: #ffffff;
+    text-transform: uppercase;
+    font-size: 22px;;
+}
+
+#calculo-container{
+    text-align: right;
+    padding: 0 20%;
+}
